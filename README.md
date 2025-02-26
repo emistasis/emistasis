@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! 👋 I'm Emmarie (emistasis), a Ph.D. candidate and data wrangler at Texas A&M. Here you'll find a collection of my code, contributions, and collaborations.
+Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here you'll find a collection of my code, contributions, and collaborations.
 
 ## About Me
 
