@@ -18,4 +18,4 @@ Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here 
 
 ## Get in Touch
 
-I'm always open to new opportunities and collaborations related to evolution. You can reach me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/emmarie-alexander).
+I'm always open to new opportunities and collaborations related to evolution, speciation, sex chromosomes, and mammals. You can reach me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/emmarie-alexander).
