@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile!
 
-Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here you'll find a collection of my code, contributions, and collaborations.
+Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here, you'll find a collection of my code, contributions, and collaborations.
 
 ## About Me
 
-- 👩‍🔬 My research is centered on sex chromosomes and their role in the speciation of mammals.
-- 🌱 I started out as a bench geneticist. I'm super good at PCRs... but I'm still very new to bioinformatics and growing as a programmer.
+- 👩‍🔬 My research is largely centered on mammalian sex chromosomes and their role in speciation processes.
+- 🌱 I started out as a wet-lab geneticist, but I've learned to love bioinformatics! Right now, I'd say I do 95% bioinformatics, and 5% wet-lab when the servers are down. ;)
 - 💬 Ask me about mammalian evolution and systematics, comparative genomics, or phylogenomics!
 - 📫 How to reach me: emmarie . alexander @ tamu . edu
 - 😄 Pronouns: she / her
@@ -14,7 +14,7 @@ Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here 
 ## Skills
 
 - **Languages**: Bash, R, Python, LaTeX, Perl
-- **Tools**: Git, VS Code, Containers, High Performance Computing
+- **Tools**: Git / GitHub, VS Code, Containers, HPC Cluster Computing
 
 ## Get in Touch
 
