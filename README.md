@@ -5,7 +5,7 @@ Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here,
 ## About Me
 
 - 👩‍🔬 My research is largely centered on mammalian sex chromosomes and their role in speciation processes.
-- 🧬 I'm probably best described as an evolutionary geneticist with an inordinate fondness for mammals.
+- 🧬 I'm best described as an evolutionary geneticist with an inordinate fondness for mammals.
 - 💬 Ask me about evolution and systematics, comparative genomics, or phylogenomics!
 - 📫 How to reach me: emmarie . alexander @ tamu . edu
 - 😄 Pronouns: she / her
