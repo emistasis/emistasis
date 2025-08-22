@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to my GitHub Profile!
 
 Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here, you'll find a collection of my code, contributions, and collaborations.
 
@@ -8,7 +8,7 @@ Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here,
 - 🧬 I'm best described as an evolutionary geneticist with an inordinate fondness for mammals.
 - 💬 Ask me about evolution and systematics, comparative genomics, or phylogenomics!
 - 📫 How to reach me: emmarie . alexander @ tamu . edu
-- 😄 Pronouns: she / her
+- 💃 Pronouns: she / her
 - ⚡ Fun fact: When I'm not coding, I'm either bouldering 🧗‍♀️, birding 🦉, or baking 🍪. 
 
 ## Skills
