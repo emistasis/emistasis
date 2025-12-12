@@ -9,7 +9,7 @@ Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here,
 - 💬 Ask me about evolution and systematics, comparative genomics, or phylogenomics!
 - 📫 How to reach me: emmarie . alexander @ tamu . edu
 - 💃 Pronouns: she / her
-- ⚡ Fun fact:  I am a competitive rock climber and enjoy spending my weekends climbing boulders outside! 🧗‍♀️
+- ⚡ Fun fact:  I am a competitive rock climber and spend most weekends climbing outside! 🧗‍♀️
 
 ## Skills
 
