@@ -5,7 +5,7 @@ Hello! 👋 I'm Emmarie, a Ph.D. candidate and data wrangler at Texas A&M. Here,
 ## About Me
 
 - 👩‍🔬 My research is focused on mammalian sex chromosomes and their role in speciation processes.
-- 🧬 I am largely interested in using evolutionary & population genomic approaches to tackle questions related to animal health.
+- 🧬 I am largely interested in using evolutionary & population genomic approaches to tackle questions related to animal health and reproduction.
 - 📫 You can reach me at emmarie . alexander @ tamu . edu
 - 💃 Pronouns: she / her
 - ⚡ Fun fact:  I am a competitive rock climber for Texas A&M's team, and I spend most weekends climbing outside! 🧗‍♀️
